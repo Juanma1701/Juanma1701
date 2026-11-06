@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy Juan Manuel Castaño Quiroz 
 
-<!--
-**Juanma1701/Juanma1701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de octavo semestre de Ingeniería Informática en la Corporación Universitaria de Sabaneta, Unisabaneta.
+Desarrollo aplicaciones web y móviles, me interesan los sistemas de información geográfica (SIG) y la ciberseguridad.
 
-Here are some ideas to get you started:
+## Proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[GeoAburrá](https://github.com/Juanma1701/Proyecto-SIG)**: geovisor SIG del Área Metropolitana del Valle de Aburrá con datos abiertos del AMVA. [Ver demo] (https://proyecto-sig-nine.vercel.app)
+- **[NovaCore](https://github.com/Juanma1701/Innovacode-Proyecto1)**: ERP móvil para pequeños negocios, desarrollado en equipo de 3. Mi parte: autenticación y conexión con Firebase.
+- **[StackLift Lab](https://github.com/Juanma1701/StackLift-Lab)**: aplicación full-stack de seguimiento de entrenamiento. [Ver demo] (https://gym-tracker-innovacode1.vercel.app)
+
+## Tecnologías
+
+**Lenguajes:** JavaScript, TypeScript, Kotlin, Python, SQL
+**Web:** React, Vite, Tailwind CSS, Node.js, Express, Prisma
+**Datos y SIG:** PostgreSQL, PostGIS, Supabase, Firebase, Leaflet, QGIS
+**Herramientas:** Git, GitHub, Vercel, Postman
+
+## Contacto
+
+📧 juanma2006900@gmail.com
